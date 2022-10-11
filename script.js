@@ -119,7 +119,7 @@ if (fieldProperties.APPEARANCE.includes('numbers_phone') === true) {
 let autocomplete;
 let cordinates ;
 let placeName;
-const BaseAPI = 'AIzaSyDUtlMKiaSvHg-B7Fh0bi3xx8fzKRFBXko';
+// const BaseAPI = 'AIzaSyDUtlMKiaSvHg-B7Fh0bi3xx8fzKRFBXko';
 
 // Google API settings
 function initMap() {
